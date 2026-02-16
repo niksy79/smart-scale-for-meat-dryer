@@ -57,13 +57,13 @@ Designed as a real product prototype combining embedded firmware, persistent sto
 
 Shows active drying session status, initial weight, current weight and real-time weight loss percentage.
 
-![Live Monitoring](docs/monitor.png)
+![Live Monitoring](docs/monitor.jpg)
 
 ### Drying History
 
 Displays day-by-day progress with total loss and daily delta for process analysis.
 
-![Drying History](docs/history.png)
+![Drying History](docs/history.jpg)
 
 
 ## Build & Flash (PlatformIO)
