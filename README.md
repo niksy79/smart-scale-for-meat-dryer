@@ -18,6 +18,7 @@ Designed as a real product prototype combining embedded firmware, persistent sto
   - Status: `/status/data`
   - History: `/history/data`
 
+
 ## Hardware
 
 - ESP32 DevKit (configured as `esp32doit-devkit-v1`)
