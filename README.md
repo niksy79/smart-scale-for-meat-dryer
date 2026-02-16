@@ -50,6 +50,21 @@ Designed as a real product prototype combining embedded firmware, persistent sto
 - `DisplayManager` – OLED screens (normal + drying live/stats/history)
 - `WebServerManager` – web pages + JSON API
 
+## Web Interface
+
+### Live Monitoring
+
+Shows active drying session status, initial weight, current weight and real-time weight loss percentage.
+
+![Live Monitoring](docs/monitor.png)
+
+### Drying History
+
+Displays day-by-day progress with total loss and daily delta for process analysis.
+
+![Drying History](docs/history.png)
+
+
 ## Build & Flash (PlatformIO)
 
 ### Requirements
