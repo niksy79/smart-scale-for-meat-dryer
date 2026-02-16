@@ -6,6 +6,8 @@
 #include "DisplayManager.h"
 #include "ButtonHandler.h"
 #include "WebServerManager.h"
+#include "secrets.h"
+
 
 // ============================================================================
 // === PIN DEFINITIONS ===
@@ -53,9 +55,6 @@ bool showingMessage = false;
 const float DISPLAY_UPDATE_THRESHOLD = 1.0f;
 
 WebServerManager webServer; 
-
-const char* WIFI_SSID = "nickygv";
-const char* WIFI_PASSWORD = "10malkinegar4eta";
 
 // ============================================================================
 // === HELPER FUNCTIONS ===
